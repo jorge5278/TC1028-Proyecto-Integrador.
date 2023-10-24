@@ -1,0 +1,5 @@
+En una pizzería se puede elegir una pizza básica con dos ingredientes: queso y
+tomate. También puedes diseñar tu propia pizza con ingredientes adicionales. Se
+pueden seleccionar entre cuatro ingredientes adicionales diferentes: aceitunas, jamón,
+champiñones y salami.
+Jaime quiere encargar una pizza con dos ingredientes adicionales diferentes.
